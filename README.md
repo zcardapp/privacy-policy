@@ -9,6 +9,8 @@ Vi samlar inte in några personliga uppgifter såsom namn, e-postadress eller li
 ### Användning av Mapbox
 För att tillhandahålla den kartfunktionalitet som erbjuds i appen använder vi tjänsten Mapbox. Genom att använda appen accepteras att viss teknisk information och anonym användningsstatistik kan överföras till Mapbox i enlighet med deras egna integritetspolicy. Vi har inte möjlighet att påverka hur Mapbox hanterar denna data, varför vi rekommenderar att du läser igenom deras integritetspolicy för mer detaljerad information.
 
+[Mapbox Customer FAQ: Data Privacy & Security](https://www.mapbox.com/legal/legal-faq)
+
 ### Cookies och liknande tekniker
 Appen använder inte cookies eller andra liknande spårningstekniker för att samla in information.
 
