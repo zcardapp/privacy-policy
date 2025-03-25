@@ -24,4 +24,4 @@ Vi strävar efter att skydda den information som hanteras av appen genom lämpli
 Vi förbehåller oss rätten att uppdatera denna integritetspolicy vid behov. Eventuella ändringar kommer att publiceras i appen, och din fortsatta användning av appen innebär att du accepterar den uppdaterade policyn.
 
 ### Kontakta Oss
-Om du har några frågor eller funderingar kring denna integritetspolicy, vänligen kontakta oss på [din kontaktinformation].
+Om du har några frågor eller funderingar kring denna integritetspolicy, vänligen kontakta oss på support@mtxab.se
